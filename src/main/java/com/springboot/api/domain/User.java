@@ -1,4 +1,4 @@
-package com.springboot.hello.domain;
+package com.springboot.api.domain;
 
 public class User {
     private String id;

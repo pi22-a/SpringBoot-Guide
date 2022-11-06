@@ -1,4 +1,4 @@
-package com.springboot.hello.controller;
+package com.springboot.api.controller;
 
 // 5.4
 //

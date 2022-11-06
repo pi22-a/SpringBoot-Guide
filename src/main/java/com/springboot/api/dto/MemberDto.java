@@ -1,4 +1,4 @@
-package com.springboot.hello.dto;
+package com.springboot.api.dto;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
